@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="277718ed-beb8-46bd-8720-28d4ab040d9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/layouts/MainLayout/index.tsx" afterDir="false" />
+    <list default="true" id="277718ed-beb8-46bd-8720-28d4ab040d9c" name="Default Changelist" comment="feat: 添加复现逻辑">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.umirc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.umirc.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602578209803</updated>
       <workItem from="1602578211282" duration="1248000" />
-      <workItem from="1602580018530" duration="388000" />
+      <workItem from="1602580018530" duration="1251000" />
     </task>
     <task id="LOCAL-00001" summary="添加文件，进行安装">
       <created>1602579621320</created>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602579621320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 添加复现逻辑">
+      <created>1602583932528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602583932528</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,16 +95,37 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="添加文件，进行安装" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加文件，进行安装" />
+    <MESSAGE value="feat: 添加复现逻辑" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加复现逻辑" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1954" y="-491" key="CommitChangelistDialog2" timestamp="1602579616895">
+    <state x="1954" y="-491" key="CommitChangelistDialog2" timestamp="1602587631996">
       <screen x="1440" y="-520" width="1920" height="1080" />
     </state>
-    <state x="1954" y="-491" key="CommitChangelistDialog2/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602579616895" />
-    <state x="2000" y="-259" key="Vcs.Push.Dialog.v2" timestamp="1602579622595">
+    <state x="1954" y="-491" key="CommitChangelistDialog2/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602587631996" />
+    <state width="1899" height="300" key="GridCell.Tab.0.bottom" timestamp="1602584308679">
       <screen x="1440" y="-520" width="1920" height="1080" />
     </state>
-    <state x="2000" y="-259" key="Vcs.Push.Dialog.v2/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602579622595" />
+    <state width="1899" height="300" key="GridCell.Tab.0.bottom/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602584308679" />
+    <state width="1899" height="300" key="GridCell.Tab.0.center" timestamp="1602584308675">
+      <screen x="1440" y="-520" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.0.center/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602584308675" />
+    <state width="1899" height="300" key="GridCell.Tab.0.left" timestamp="1602584308672">
+      <screen x="1440" y="-520" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.0.left/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602584308672" />
+    <state width="1899" height="300" key="GridCell.Tab.0.right" timestamp="1602584308677">
+      <screen x="1440" y="-520" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.0.right/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602584308677" />
+    <state x="2000" y="-259" key="Vcs.Push.Dialog.v2" timestamp="1602583934526">
+      <screen x="1440" y="-520" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="-259" key="Vcs.Push.Dialog.v2/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602583934526" />
+    <state x="2065" y="-279" width="670" height="676" key="search.everywhere.popup" timestamp="1602587636245">
+      <screen x="1440" y="-520" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="-279" width="670" height="676" key="search.everywhere.popup/1440.-520.1920.1080/0.0.1440.900@1440.-520.1920.1080" timestamp="1602587636245" />
   </component>
 </project>
